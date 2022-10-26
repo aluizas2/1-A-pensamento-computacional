@@ -1,0 +1,16 @@
+<h1>QUIOSQUE DA IANOSKI</h1>
+<p>Situado em Fernando de Noronha, pernambuco</p>
+
+ <p> O ianoski possui uma variedade de drinques para escolher, entre eles alcoólicos e juvenis. </p>
+<p>O nosso quiosque com o visual deslumbrante proporciona os melhores drinques e a melhor recepção de qualidade para você e seus amigos, e ate mesmo sua família. Não perca a chance de ir e conhecer!</p>
+
+<p>Temos um cardápio virtual, com variedades de sabores para você escolher!</p>
+
+<img src="Cardápio menu de cupcakes encomenda. Story Instagram.jpg"
+body {
+	background: #CCCCCC
+}
+
+#banner { src="Cardápio menu de cupcakes encomenda. Story Instagram.jpg"
+	width: 100%;
+    
